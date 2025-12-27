@@ -1,7 +1,3 @@
-# posenet-demo-ml5js
-A posenet demo built using ml5.js
-
-Live Demo - https://campusx-official.github.io/posenet-demo-ml5js/
 # 🚀 PoseNet Demo with ml5.js
 
 Real-time human pose detection in the browser using **ml5.js** and **p5.js**. Overlay creative graphics on live webcam poses for an interactive experience in computer vision!
